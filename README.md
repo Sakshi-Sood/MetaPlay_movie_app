@@ -32,13 +32,13 @@ A modern movie streaming application built with React and Vite that provides sea
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/aditya-2k23/movie-app.git
+git clone https://github.com/Sakshi-Sood/MetaPlay_movie_app
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd movie-app
+cd MetaPlay_movie_app
 ```
 
 3. Install the dependencies:
